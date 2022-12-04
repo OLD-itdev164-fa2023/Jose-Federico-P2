@@ -1,0 +1,4 @@
+This is just a simple site gallery created with gatsby. I didnt use Contentful for the sole reaosn of not having to create another account and having to set it up with another email. All the images are stored within the project and displayed using gatsby image. The point of this project is to improve on what i know about gatsby and make something thats pleasant to the eye and usefull. I feel like this project can be used as a template for any other gatsby related project that requires displaying images. the only technologies used are:
+- Gatbsy 
+- JQuery
+I used JQuery to pull all the images from their storage in combination with gatsby image to display them in a grid. With alot of CSS and JS I manage to create a nice hover effect and display images in varrying sizes. A bit simple but I learned alot with the project. 
